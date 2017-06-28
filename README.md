@@ -133,4 +133,3 @@ Video.js is [licensed][license] under the Apache License, Version 2.0.
 [vjs]: http://videojs.com
 
 [coc]: CODE_OF_CONDUCT.md
-good
